@@ -54,24 +54,24 @@ function Users() {
     {
       title: "Role",
       dataIndex: "role",
-      render: (record) => record.role.toUpperCase(),
+      render: (text, record) => record.role.toUpperCase(),
     },
     {
       title: "Created At",
       dataIndex: "createdAt",
-      render: (record) =>
+      render: (text, record) =>
         moment(record.createdAt).format("DD-MM-YYYY hh:mm A"),
     },
     {
       title: "Status",
       dataIndex: "status",
-      render: (record) => record.status.toUpperCase(),
+      render: (text, record) => record.status.toUpperCase(),
     },
 
     {
       title: "Action",
       dataIndex: "action",
-      render: (record) => {
+      render: (text, record) => {
         const { status, _id } = record;
         return (
           <div className="flex gap-5">
