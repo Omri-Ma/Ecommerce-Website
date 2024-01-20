@@ -130,13 +130,14 @@ Feel free to explore the website's functionality without needing a local setup.
 ## Screenshots
 
 1. **Home Page:**
-   ![Home Page](https://imgur.com/VMtf8ZF)
+   ![image](https://github.com/Omri-Ma/Ecommerce-Website/assets/60123518/bcc21bce-90b1-4be4-a2a8-e29575391c53)
 
-2. **Product Catalog:**
-   ![Product Info](https://imgur.com/VMtf8ZF)
+2. **User's Cart:**
+   ![image](https://github.com/Omri-Ma/Ecommerce-Website/assets/60123518/e34f94fc-51ff-4f3e-9bef-7d3a6af351e7)
 
 3. **Product Details Page:**
-   ![Admin's Panel](https://imgur.com/VMtf8ZF)
+   ![image](https://github.com/Omri-Ma/Ecommerce-Website/assets/60123518/cfd4345e-af49-40dc-89b4-f3636f3003e2)
+
 
 
 ---
