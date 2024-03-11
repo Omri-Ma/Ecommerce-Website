@@ -1,10 +1,10 @@
-# Outside the Box - E-commerce Website
+# Outside the Box - Ecommerce Website
 
 ## Introduction
 
-For my final university degree project, I developed an e-commerce 
+For my final university degree project, I developed an ecommerce 
 platform emphasizing essential functionality. This project serves 
-as a practical demonstration of key e-commerce features, showcasing 
+as a practical demonstration of key ecommerce features, showcasing 
 the application of skills acquired throughout the course. It has 
 been an opportunity for me to learn new technologies and gain insights 
 into fundamental web development practices.
